@@ -54,14 +54,14 @@ Neste projeto, foi explorada uma aplicação inicial de Machine Learning para pr
 
 ## 👥 Integrantes do Grupo
 
-|        Nome         |                       GitHub                       |
-|---------------------|----------------------------------------------------|
-| Griselda Justo      | [@GriseldaJusto](https://github.com/GriseldaJusto) |
-| Camille             | [@GriseldaJusto](https://github.com/GriseldaJusto) |
-| Priscila Estevao    | [@GriseldaJusto](https://github.com/GriseldaJusto) |
-| Amanda Amani        | [@GriseldaJusto](https://github.com/GriseldaJusto) |
-| Manuela Oliveira    | [@GriseldaJusto](https://github.com/GriseldaJusto) |
-| Raysa Leide         | [@GriseldaJusto](https://github.com/GriseldaJusto) |
+|        Nome         |                            GitHub                          |
+|---------------------|------------------------------------------------------------|
+| Griselda Justo      | [@GriseldaJusto](https://github.com/GriseldaJusto)         |
+| Camille Nogueira    | [@camizsn](https://github.com/camizsn)                     |
+| Priscila Estevao    | [@GriseldaJusto](https://github.com/GriseldaJusto)         |
+| Amanda Amani        | [@AmandaAmani](https://github.com/AmandaAmani)             |
+| Manuela Oliveira    | [@Manuelaoliveira97](https://github.com/Manuelaoliveira97) |
+| Raysa Leide         | [@raysaleide](https://github.com/raysaleide)               |
 
 
 
